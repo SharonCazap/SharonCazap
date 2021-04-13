@@ -15,8 +15,6 @@ Soy desarrolladora FrontEnd y diseñadora UX/UI.
 <br />
 ✔️ JavaScript
 <br />
-✔️ Bootstrap
-<br />
 ✔️ React
 <br />
 ✔️ Adobe XD
