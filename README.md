@@ -23,7 +23,7 @@ Soy desarrolladora FrontEnd y diseñadora UX/UI.
 
 <br />
 
---
+---
 
 ![Shari Cazap's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoncazap&theme=buefy&show_icons=true&hide_border=true) 
 <br />
