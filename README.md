@@ -3,7 +3,7 @@
 <!--
 **SharonCazap/SharonCazap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-###  Soy desarrolladora FrontEnd y diseñadora UX/UI. 
+Soy desarrolladora FrontEnd y diseñadora UX/UI. 
 
 <br />
 
@@ -23,7 +23,7 @@
 
 <br />
 
-<hr></hr>
+--
 
 ![Shari Cazap's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoncazap&theme=buefy&show_icons=true&hide_border=true) 
 <br />
