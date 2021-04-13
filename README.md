@@ -22,9 +22,7 @@ Soy desarrolladora FrontEnd y diseñadora UX/UI.
 ✔️ Adobe XD
 
 <br />
-
 ---
 
 ![Shari Cazap's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharoncazap&theme=buefy&show_icons=true&hide_border=true) 
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharoncazap&layout=compact&theme=buefy&hide_border=true)](https://github.com/sharoncazap/github-readme-stats)
