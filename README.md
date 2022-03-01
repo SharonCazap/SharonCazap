@@ -1,13 +1,13 @@
-## Hi 👋 soy Shari!
+## Hi 👋 I'm Shari!
 
 <!--
 **SharonCazap/SharonCazap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Soy desarrolladora FrontEnd y diseñadora UX/UI. 
+I'm a FrontEnd Developer and UX/UI Designer.
 
 <br />
 
-👩‍💻 Algunos de los lenguajes y herramientas que utilizo son:
+👩‍💻 Some of the languages and tools I use are: 
 
 ✔️ HTML
 <br />
