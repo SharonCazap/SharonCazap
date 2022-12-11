@@ -18,7 +18,6 @@ I'm a FrontEnd Developer and UX/UI Designer.
 <br />
 ✔️ Adobe XD
 <br />
-<br />
 ✔️ Figma
 <br />
 
